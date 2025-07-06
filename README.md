@@ -43,7 +43,7 @@ const morad = {
 - 🌱 Learning **Advanced AI Techniques & Preparing AI Seminars**
 - 👯 Looking to collaborate on **3D Modeling, AI, and Web Development Projects**
 - 💬 Ask me about **Computer Vision, 3D Modeling, Web Development, Game Development**
-- 📫 How to reach me: **[Your Email]**
+- 📫 How to reach me: **moradsheblmohamed@gmail.com**
 - ⚡ Fun fact: **I've been creating 3D models since age 9 and have an IQ of 131!**
 
 ## 🏆 My Journey & Achievements
