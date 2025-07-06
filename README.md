@@ -101,10 +101,10 @@ const morad = {
 ## 🎯 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/morad-shebl/critic3d">
+  <a href="https://github.com/MoradShebl/critic">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=morad-shebl&repo=critic3d&theme=radical&hide_border=true" alt="Critic3d" />
   </a>
-  <a href="https://github.com/morad-shebl/muhathin">
+  <a href="https://github.com/MoradShebl/muhathin">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=morad-shebl&repo=muhathin&theme=radical&hide_border=true" alt="Muhathin Extension" />
   </a>
 </div>
@@ -119,13 +119,13 @@ const morad = {
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=morad-shebl&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MoradShebl&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=morad-shebl&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MoradShebl&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ## 🌐 Connect With Me
@@ -134,13 +134,10 @@ const morad = {
   <a href="https://linkedin.com/in/morad-shebl" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:moradsheblmohamed@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://yourportfolio.com" target="_blank">
+  <a href="https://moradshebl.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
 </div>
@@ -149,18 +146,6 @@ const morad = {
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
-
-## 🎵 Spotify Playing
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Playing" />
-</div>
-
-## 🎵 Spotify Playing
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Playing" />
 </div>
 
 ---
