@@ -102,10 +102,10 @@ const morad = {
 
 <div align="center">
   <a href="https://github.com/MoradShebl/critic">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=morad-shebl&repo=critic3d&theme=radical&hide_border=true" alt="Critic3d" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MoradShebl&repo=critic&theme=radical&hide_border=true" alt="Critic3d" />
   </a>
   <a href="https://github.com/MoradShebl/muhathin">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=morad-shebl&repo=muhathin&theme=radical&hide_border=true" alt="Muhathin Extension" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MoradShebl&repo=muhathin&theme=radical&hide_border=true" alt="Muhathin Extension" />
   </a>
 </div>
 
