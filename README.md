@@ -95,7 +95,7 @@ const morad = {
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,cpp,html,css,tailwind,git,unity,blender,photoshop,tensorflow" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,cpp,html,css,tailwind,git,blender,photoshop,opencv" alt="Tech Stack" />
 </div>
 
 ## 🎯 Featured Projects
